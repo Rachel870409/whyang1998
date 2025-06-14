@@ -1,17 +1,16 @@
-# whyang1998
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Wen-Hsuan Yang- Academic Website</title>
+  <title> Wen-Hsuan Yang- Academic Website </title>
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   <header>
     <img src="profile.jpg" alt="Profile Photo" class="profile-photo">
-    <h1>Dr. [Your Name]</h1>
-    <p>[Your position], [Your Department] <br> [Your Institution]</p>
+    <h1> Wen-Hsuan Yang </h1>
+    <p> Ph.D student, Child and Family Science <br> National Taiwan Normal University, Taiwan </p>
     <nav>
       <a href="#about">About</a>
       <a href="#research">Research</a>
