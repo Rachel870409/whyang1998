@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Dr. [Your Name] - Academic Website</title>
+  <title>Wen-Hsuan Yang- Academic Website</title>
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
   <link rel="stylesheet" href="styles.css">
 </head>
@@ -24,7 +24,7 @@
     <section id="about">
       <h2>About</h2>
       <p>
-        [Short academic biography. Example: "I am an Assistant Professor at the Department of X, University of Y. My research focuses on ..."]
+        [Short academic biography. Example: "I am a Ph.D student at the Department of Child and Family Science, National Taiwan Normal University, Taiwan. My research focuses on children's social emotional development"]
       </p>
     </section>
     
